@@ -1,4 +1,4 @@
-# c reating a warehouse application in salesforce.com
+# Creating a warehouse application in salesforce.com
 
 ## AIM: Creating a Warehouse application in SalesForce.com.
 
